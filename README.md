@@ -1,4 +1,4 @@
-# Customer Support Chatbot with Amazon Bedrock Flows
+# Customer Support Chatbot with Amazon Bedrock AgentCore
 
 An AI customer support chatbot built with Amazon Bedrock Flows, showcasing multi-step prompt workflows, intent-based routing, response generation, and iterative refinement.
 
